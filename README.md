@@ -6,14 +6,15 @@ NPM: 2206030855<br>
 
 <details>
     <summary>Test Results</summary>
-    <h3>/all-student-name test results</h3>
-    ![img.png](./images/test-results/AllStudentTestResults.png)
-    <h3>/highest-gpa test results</h3>
-    ![img.png](./images/test-results/![img.png](img.png)HighestGPATestResults.png)
+    /all-student-name test results <Br>
+    <img src="./images/test-results/AllStudentTestResults.png", width="75%"/> <br>
+    /highest-gpa test results <Br>
+    <img src="./images/test-results/HighestGPATestResults.png", width="75%"/>
 </details>
 <details>
     <summary>Test Results (JTL)</summary>
-    ![img.png](./images/AllStudentJTL.png)
-    <h3>/highest-gpa test results</h3>
-    ![img.png](./images/HighestGPAJTL.png)
+    /all-student-name test results <Br>
+    <img src="./images/jtl/AllStudentJTL.png", width="75%"/> <br>
+    /highest-gpa test results <Br>
+    <img src="./images/jtl/HighestGPAJTL.png", width="75%"/>
 </details>
